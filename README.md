@@ -8,13 +8,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=40&lines=.+.+.+D+E+V+N+I+X+.+.+.)](https://git.io/typing-svg)
 
+<img width="400" src="https://raw.githubusercontent.com/Devnix7/Devnix7/main/assets/laptop-render.gif"/>
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=20&duration=1&pause=99999999&color=ffffff&center=true&repeat=false&width=435&height=30&lines=W+H+A+T++I++D+O"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend_Development-000?style=for-the-badge&logo=react&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Code-Clean_Architecture-000?style=for-the-badge&logo=codepen&logoColor=fff"/>
+  <a href="https://github.com/Devnix7?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/Fullstack-Development-white?style=for-the-badge&logoColor=white&logo=code-square" />
+  </a>
+  <a href="https://github.com/Devnix7?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/Clean-Architecture-white?style=for-the-badge&logoColor=white&logo=architecture" />
+  </a>
 </div>
 
 <br>
