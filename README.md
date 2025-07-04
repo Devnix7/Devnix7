@@ -35,6 +35,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=20&duration=1&pause=99999999&color=ffffff&center=true&repeat=false&width=435&height=30&lines=A+C+T+I+V+I+T+Y"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Devnix7&hide_border=true&background=00000000&stroke=FFFFFF&ring=4ADE80&fire=4ADE80&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devnix7&bg_color=00000000&color=ffffff&line=4ade80&point=ffffff&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
